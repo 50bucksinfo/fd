@@ -16,7 +16,7 @@ carousel:
   <ul class="slides">
       {% for slides in page.carousel %}
       <li>
-        <img src="{{ slides.image }}" />
+        <img center src="{{ slides.image }}" />
       </li>
       {% endfor %}
   </ul>
