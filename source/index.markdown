@@ -12,8 +12,11 @@ carousel:
   - image: images/sliders31.jpg
   - image: images/sliders41.jpg
 ---
-<div class="flexslider">
-  <ul class="slides">
+<!--
+{% img center images/were_the_best4-315x377.jpg %}
+-->
+<div class="center flexslider">
+  <ul class="center slides">
       {% for slides in page.carousel %}
       <li>
         <img center src="{{ slides.image }}" />
@@ -21,6 +24,3 @@ carousel:
       {% endfor %}
   </ul>
 </div>
-
-
-
