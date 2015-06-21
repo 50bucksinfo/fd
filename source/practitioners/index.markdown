@@ -6,7 +6,6 @@ comments: true
 sharing: true
 footer: true
 ---
----------------
 {% img left images/prac_03_George1.jpg 'Dr. George Demirov' %}
 #Dr. George Demirov
 <p><strong>WHY DID YOU BECOME AN OSTEO?</strong><br />
@@ -20,6 +19,7 @@ I’m a keen sportsman which I’ve inherited through my Dad who happens to be a
 <p><strong>SOME FUN FACTS ABOUT YOU…</strong><br />
 My hands appeared in a workcover TV commercial and I appeared as a wrestling referee on Neighbours!</p>
 
+---------------
 {% img left images/prac_03_Rachael1.jpg 'Dr. Rachael Fisher' %}
 #Dr. Rachael Fisher
 <p><strong>WHY DID YOU BECOME AN OSTEO?</strong><b><br />
@@ -36,6 +36,7 @@ My hands appeared in a workcover TV commercial and I appeared as a wrestling ref
 </b>I love ironing, I find it relaxing!</p>
 <p><strong> </strong></p>
 
+---------------
 {% img left images/prac_032.jpg 'Dr. Melanie Taylor' %}
 #Dr. Melanie Taylor
 <p><strong>WHY DID YOU BECOME AN OSTEO?</strong><br />
