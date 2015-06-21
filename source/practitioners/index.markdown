@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-{% img left images/prac_03_George1.jpg 'Dr. George Demirov' %}
+{% img left /images/prac_03_George1.jpg 'Dr. George Demirov' %}
 #Dr. George Demirov
 <p><strong>WHY DID YOU BECOME AN OSTEO?</strong><br />
 I was injured playing football as a teenager.  I’d tried several traditional rehabilitation methods which didn’t help, so I tried osteopathy.  It was so effective it inspired me to peruse a career in osteopathy and I haven’t looked back (pardon the pun) since</p>
@@ -20,7 +20,7 @@ I’m a keen sportsman which I’ve inherited through my Dad who happens to be a
 My hands appeared in a workcover TV commercial and I appeared as a wrestling referee on Neighbours!</p>
 
 ---------------
-{% img left images/prac_03_Rachael1.jpg 'Dr. Rachael Fisher' %}
+{% img left /images/prac_03_Rachael1.jpg 'Dr. Rachael Fisher' %}
 #Dr. Rachael Fisher
 <p><strong>WHY DID YOU BECOME AN OSTEO?</strong><b><br />
 </b>As a child I loved sport and in particular squash playing every spare minute I could.  I had my fair share of injuries and tried many different types of treatment. In my late teens I tried what I thought was a ‘new’ modality called Osteopathy which helped me the most and sparked my interest in becoming an Osteo.</p>
@@ -37,7 +37,7 @@ My hands appeared in a workcover TV commercial and I appeared as a wrestling ref
 <p><strong> </strong></p>
 
 ---------------
-{% img left images/prac_032.jpg 'Dr. Melanie Taylor' %}
+{% img left /images/prac_032.jpg 'Dr. Melanie Taylor' %}
 #Dr. Melanie Taylor
 <p><strong>WHY DID YOU BECOME AN OSTEO?</strong><br />
 After watching my mum struggle with painful carpal tunnel for many years, I became inspired to pursue a career in manual therapy. The holistic approach to manual medicine and principles that form the foundation of osteopathy completed the picture perfectly for me. I thoroughly enjoy being able to help people recover and get back to doing the things they love!</p>

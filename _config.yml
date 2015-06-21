@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://fisherdemirov.com.au
+url: http://50bucksinfo.github.io/fd
 title: Osteopaths Ringwood - Fisher Demirov
 subtitle: Got Pain? Get Relief.
 author: George Demirov
@@ -27,10 +27,10 @@ show_feeds: false
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /fd
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/fd
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories

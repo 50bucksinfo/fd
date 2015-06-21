@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-{% img images/about_032-945x380.jpg %}
+{% img /images/about_032-945x380.jpg %}
 #Fisher Demirov
 Fisher Demirov is a dedicated team of the finest osteopathic professionals based in Ringwood.  We service the surrounding Melbourne Eastern suburbs of Park Orchards, Mitcham, Bayswater, Blackburn, Heathmont, Wantirna, Warrandyte and Vermont.
 
