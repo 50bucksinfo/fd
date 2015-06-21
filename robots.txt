@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://50bucksinfo.github.io/fd/sitemap.xml 
